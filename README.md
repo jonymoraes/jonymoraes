@@ -2,32 +2,70 @@
 
 ### Frontend
 
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularjs-original.svg" alt="Angular" title="Angular" width="48" height="48"/>
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularmaterial-original.png" alt="Angular Material" title="Angular Material" width="48" height="48"/>
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/sass-original.svg" alt="Sass" title="Sass" width="48" height="48"/>
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/html-original.svg" alt="HTML" title="HTML" width="48" height="48"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularjs-original.svg" alt="Angular" title="Angular" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularmaterial-original.png" alt="Angular Material" title="Angular Material" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/sass-original.svg" alt="Sass" title="Sass" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/html-original.svg" alt="HTML" title="HTML" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+</div>
 
 ### Backend
 
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/nestjs-original.svg" alt="Nest.js" title="Nest.js" width="48" height="48"/>
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/redis-original.svg" alt="Redis" title="Redis" width="48" height="48"/>
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bullmq-original.png" alt="BullMQ" title="BullMQ" width="48" height="48"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/nestjs-original.svg" alt="Nest.js" title="Nest.js" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/redis-original.svg" alt="Redis" title="Redis" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bullmq-original.png" alt="BullMQ" title="BullMQ" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+</div>
 
 ### Mobile
 
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="48" height="48"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/kotlin-original.svg" alt="Kotlin" title="Kotlin" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+</div>
 
 ### Database
 
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+</div>
 
 ### Workflow & Tools
 
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/docker-original.svg" alt="Docker" title="Docker" width="48" height="48"/>
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/git-original.svg" alt="Git" title="Git" width="48" height="48"/>
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bash-original.svg" alt="Bash" title="Bash" width="48" height="48"/>
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/tmux-original.svg" alt="Tmux" title="Tmux" width="48" height="48"/>
-<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/archlinux-original.svg" alt="Arch Linux" title="Arch Linux" width="48" height="48"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/docker-original.svg" alt="Docker" title="Docker" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/git-original.svg" alt="Git" title="Git" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bash-original.svg" alt="Bash" title="Bash" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/tmux-original.svg" alt="Tmux" title="Tmux" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+  <div style="width:48px; height:48px; overflow:hidden;">
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/archlinux-original.svg" alt="Arch Linux" title="Arch Linux" style="width:100%; height:100%; object-fit:cover;"/>
+  </div>
+</div>
 
 ## Statistics 📊 :
 
