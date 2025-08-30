@@ -4,12 +4,22 @@
 
 <div align="left">
   <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularjs-original.svg" alt="Angular" title="Angular"/>
+
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularmaterial-original.png" alt="Angular Material" title="Angular Material"/>
+
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/sass-original.svg" alt="Sass" title="Sass"/>
+
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/html-original.svg" alt="HTML" title="HTML"/>
 </div>
 
 ### Backend
 
 <div align="left">
-  <img width="48" src="" alt="Nest.js" title="Nest.js"/>
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/nestjs-original.svg" alt="Nest.js" title="Nest.js"/>
+
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/redis-original.svg" alt="Redis" title="Redis"/>
+
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bullmq-original.png" alt="BullMQ" title="BullMQ"/>
 </div>
 
 ### Mobile
@@ -28,9 +38,14 @@
 
 <div align="left">
   <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/docker-original.svg" alt="Docker" title="Docker"/>
-  <img width="48" src="" alt="Git" title="Git"/>
-  <img width="48" src="" alt="Bash" title="Bash"/>
-  <img width="48" src="" alt="Arch Linux" title="Arch Linux"/>
+
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/git-original.svg" alt="Git" title="Git"/>
+
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bash-original.svg" alt="Bash" title="Bash"/>
+
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/tmux-original.svg" alt="Tmux" title="Tmux"/>
+
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/archlinux-original.svg" alt="Arch Linux" title="Arch Linux"/>
 </div>
 
 ## Statistics 📊 :
