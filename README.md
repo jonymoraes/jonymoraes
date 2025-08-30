@@ -2,51 +2,32 @@
 
 ### Frontend
 
-<div align="left">
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularjs-original.svg" alt="Angular" title="Angular"/>
-
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularmaterial-original.png" alt="Angular Material" title="Angular Material"/>
-
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/sass-original.svg" alt="Sass" title="Sass"/>
-
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/html-original.svg" alt="HTML" title="HTML"/>
-</div>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularjs-original.svg" alt="Angular" title="Angular" width="48" height="48"/>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularmaterial-original.png" alt="Angular Material" title="Angular Material" width="48" height="48"/>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/sass-original.svg" alt="Sass" title="Sass" width="48" height="48"/>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/html-original.svg" alt="HTML" title="HTML" width="48" height="48"/>
 
 ### Backend
 
-<div align="left">
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/nestjs-original.svg" alt="Nest.js" title="Nest.js"/>
-
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/redis-original.svg" alt="Redis" title="Redis"/>
-
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bullmq-original.png" alt="BullMQ" title="BullMQ"/>
-</div>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/nestjs-original.svg" alt="Nest.js" title="Nest.js" width="48" height="48"/>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/redis-original.svg" alt="Redis" title="Redis" width="48" height="48"/>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bullmq-original.png" alt="BullMQ" title="BullMQ" width="48" height="48"/>
 
 ### Mobile
 
-<div align="left">
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/kotlin-original.svg" alt="Kotlin" title="Kotlin"/>
-</div>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="48" height="48"/>
 
 ### Database
 
-<div align="left">
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-</div>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/>
 
 ### Workflow & Tools
 
-<div align="left">
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/docker-original.svg" alt="Docker" title="Docker"/>
-
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/git-original.svg" alt="Git" title="Git"/>
-
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bash-original.svg" alt="Bash" title="Bash"/>
-
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/tmux-original.svg" alt="Tmux" title="Tmux"/>
-
-  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/archlinux-original.svg" alt="Arch Linux" title="Arch Linux"/>
-</div>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/docker-original.svg" alt="Docker" title="Docker" width="48" height="48"/>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/git-original.svg" alt="Git" title="Git" width="48" height="48"/>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bash-original.svg" alt="Bash" title="Bash" width="48" height="48"/>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/tmux-original.svg" alt="Tmux" title="Tmux" width="48" height="48"/>
+<img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/archlinux-original.svg" alt="Arch Linux" title="Arch Linux" width="48" height="48"/>
 
 ## Statistics 📊 :
 
