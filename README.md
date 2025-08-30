@@ -2,26 +2,36 @@
 
 ### Frontend
 
-- ![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg =48x48) Angular
+<div align="left">
+<img width="48" src="https://user-images.githubusercontent.com/192158954/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Angular" title="Angular"/>
+</div>
 
 ### Backend
 
-- ![NestJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg =48x48) NestJS
+<div align="left">
+<img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/>
+</div>
 
 ### Mobile
 
-- ![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg =48x48) Kotlin
+<div align="left">
+<img width="48" src="https://user-images.githubusercontent.com/185062810/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/>
+</div>
 
 ### Database
 
-- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg =48x48) PostgreSQL
+<div align="left">
+<img width="48" src="https://user-images.githubusercontent.com/117208740/bfb78400.png" alt="PostgreSQL" title="PostgreSQL"/>
+</div>
 
 ### Workflow & Tools
 
-- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg =48x48) Docker
-- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg =48x48) Git
-- ![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg =48x48) Bash
-- ![Arch Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg =48x48) Arch Linux
+<div align="left">
+<img width="48" src="https://user-images.githubusercontent.com/117207330/263ba280.png" alt="Docker" title="Docker"/>
+<img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Git" title="Git"/>
+<img width="48" src="https://user-images.githubusercontent.com/192158606/7c2ef6bd.png" alt="Bash" title="Bash"/>
+<img width="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Archlinux-icon-crystal-64.svg" alt="Arch Linux" title="Arch Linux"/>
+</div>
 
 ## Statistics 📊 :
 
