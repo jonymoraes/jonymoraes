@@ -3,34 +3,34 @@
 ### Frontend
 
 <div align="left">
-<img width="48" src="https://user-images.githubusercontent.com/192158954/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Angular" title="Angular"/>
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularjs-original.svg" alt="Angular" title="Angular"/>
 </div>
 
 ### Backend
 
 <div align="left">
-<img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/>
+  <img width="48" src="" alt="Nest.js" title="Nest.js"/>
 </div>
 
 ### Mobile
 
 <div align="left">
-<img width="48" src="https://user-images.githubusercontent.com/185062810/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/>
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/kotlin-original.svg" alt="Kotlin" title="Kotlin"/>
 </div>
 
 ### Database
 
 <div align="left">
-<img width="48" src="https://user-images.githubusercontent.com/117208740/bfb78400.png" alt="PostgreSQL" title="PostgreSQL"/>
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
 
 ### Workflow & Tools
 
 <div align="left">
-<img width="48" src="https://user-images.githubusercontent.com/117207330/263ba280.png" alt="Docker" title="Docker"/>
-<img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Git" title="Git"/>
-<img width="48" src="https://user-images.githubusercontent.com/192158606/7c2ef6bd.png" alt="Bash" title="Bash"/>
-<img width="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Archlinux-icon-crystal-64.svg" alt="Arch Linux" title="Arch Linux"/>
+  <img width="48" src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/docker-original.svg" alt="Docker" title="Docker"/>
+  <img width="48" src="" alt="Git" title="Git"/>
+  <img width="48" src="" alt="Bash" title="Bash"/>
+  <img width="48" src="" alt="Arch Linux" title="Arch Linux"/>
 </div>
 
 ## Statistics 📊 :
