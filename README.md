@@ -14,7 +14,7 @@
 <div style="display: flex; gap: 8px; align-items: center;">
   <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/nestjs-original.svg" alt="Nest.js" title="Nest.js" width="48" height="48"/>
   <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/redis-original.svg" alt="Redis" title="Redis" width="48" height="48"/>
-  <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bullmq-original.png" alt="BullMQ" title="BullMQ" width="48" height="48"/>
+  <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bullmq-original.svg" alt="BullMQ" title="BullMQ" width="48" height="48"/>
 </div>
 
 ### Mobile
