@@ -35,7 +35,6 @@
   <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/docker-original.svg" alt="Docker" title="Docker" width="48" height="48"/>
   <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/git-original.svg" alt="Git" title="Git" width="48" height="48"/>
   <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/bash-original.svg" alt="Bash" title="Bash" width="48" height="48"/>
-  <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/tmux-original.svg" alt="Tmux" title="Tmux" width="48" height="48"/>
   <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/archlinux-original.svg" alt="Arch Linux" title="Arch Linux" width="48" height="48"/>
 </div>
 
