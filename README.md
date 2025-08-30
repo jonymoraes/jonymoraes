@@ -6,7 +6,7 @@
   <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularjs-original.svg" alt="Angular" title="Angular" width="48" height="48"/>
   <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/angularmaterial-original.png" alt="Angular Material" title="Angular Material" width="48" height="48"/>
   <span style="position: relative;">
-    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/sass-original.svg?nocache=1" alt="Sass" title="Sass" width="48" height="48" style="transform: translateX(6px);"/>
+    <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/sass-original.svg?nocache=1" alt="Sass" title="Sass" width="48" height="48"/>
     <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/html-original.svg?nocache=1" alt="HTML" title="HTML" width="48" height="48" style="position: absolute;"/>
   </span>
 </div>
