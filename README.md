@@ -23,7 +23,7 @@
 ### Mobile
 
 <div style="display: flex; gap: 8px; align-items: center;">
-  <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="48" height="48"/>
+  <img src="https://github.com/jonymoraes/jonymoraes/blob/master/assets/kotlin-alt.svg" alt="Kotlin" title="Kotlin" width="48" height="48"/>
 </div>
 
 ### Workflow & Tools
